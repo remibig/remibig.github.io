@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <body>
+    <pre class="mermaid">
+---
+title: portfolio exemple
+---
+classDiagram
+    Portfolio --|> Page : contient
+    Portfolio --|> Projet : contient
+    Portfolio --|> CV : contient
+
+    Portfolio : +String titre
+    Portfolio : +String description
+    Portfolio : +String theme
+
+    Page : +String nom
+    Page : +String contenu
+
+    Projet : +String nom
+    Projet : +String description
+    Projet : +String url
+
+    CV : +String fichier
+
+    </pre>
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    </script>
+  </body>
+</html>
