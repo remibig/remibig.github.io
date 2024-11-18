@@ -7,8 +7,8 @@ title: portfolio exemple
 ---
 classDiagram
     Portfolio --|> Page
-    Projet <|-- Portfolio
-    CV <|-- Portfolio
+    Portfolio --|> Projet
+    Portfolio --|> CV
 
     Portfolio : +String titre
     Portfolio : +String description
