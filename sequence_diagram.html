@@ -5,24 +5,16 @@
 ---
 title: portfolio exemple
 ---
-classDiagram
-    Portfolio --|> Page : contient
-    Portfolio --|> Projet : contient
-    Portfolio --|> CV : contient
+sequenceDiagram
+    participant Utilisateur
+    participant ServeurGitHub
+    participant ServeurWebJekyll
 
-    Portfolio : +String titre
-    Portfolio : +String description
-    Portfolio : +String theme
-
-    Page : +String nom
-    Page : +String contenu
-
-    Projet : +String nom
-    Projet : +String description
-    Projet : +String url
-
-    CV : +String fichier
-
+    Utilisateur->>ServeurWebJekyll: Demande page
+    ServeurWebJekyll->>ServeurGitHub: Récupère projet
+    ServeurGithub->>ServeurWebJekyll: Envoie projets
+    ServeurWebJekyll->>Utilisateur: Affiche projets
+      
     </pre>
     <script type="module">
       import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
