@@ -6,9 +6,9 @@
 title: portfolio exemple
 ---
 classDiagram
-    Portfolio --|> Page
-    Portfolio --|> Projet
-    Portfolio --|> CV
+    Portfolio --|> Page : contient
+    Portfolio --|> Projet : contient
+    Portfolio --|> CV : contient
 
     Portfolio : +String titre
     Portfolio : +String description
