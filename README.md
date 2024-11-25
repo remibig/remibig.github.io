@@ -1,8 +1,8 @@
 # CV
 
-##diplomes
+## diplomes
 bts
 dut
 
-##experiences
+## experiences
 stage
