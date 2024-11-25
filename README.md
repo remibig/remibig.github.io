@@ -1,3 +1,8 @@
 # CV
 
-exemple
+##diplomes
+bts
+dut
+
+##experiences
+stage
