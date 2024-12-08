@@ -1,93 +1,108 @@
-Johnny Coder
+Rémi Bigard
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+Carcassonne, France           remi.bigard5@gmail.com
 -------------------     ----------------------------
+
+About me
+
+Aspiring data scientist with hands-on experience. Gained a wide range of
+skills through a three-year bachelor and a three-month internship, including
+data architecture, programming and web programming, GIS visualization
+and data modelling. Demonstrates strong analytical abilities and a deep
+understanding of technical subjects. Currently seeking a spring 2025
+internship to further expand professional experience and gain exposure to
+international cultures.
+
 
 Education
 ---------
+From 2022 to 2025       Data Science Bachelor
+                        University Of Perpignan Carcassonne
+                        VCOD Option (Decision-making tools design and visualisation)
+                        
+From 2020 to 2021       Preparatory Class - Engineering - Lycée Jules Ferry Cannes, France
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+From 2018 to 2020       Advanced Technician's Certicate - IT - Lycée Jules Ferry Cannes, France
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2017                    Baccalaureate - Engeneering Sciences - Lycée Alexis de Tocqueville Grasse, France
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
 
-    *Minor: Awesomeology*
+
+
+
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Algorithmic prediction for airplane trips- Optionway**
+- Predictive models to highlight the best trips with R
+- Program automation to gather data with Airow/Docker
+- Web scraping with Python
+- Dashboards to visualize sales data
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+**Website creation to visualize geographical informations**
+Optimized itineraries calculation
+SQL Database architecture
+Leaet/Python/PHP Visualization
 
-* First item
+**Dashboards creation for a moving company**
+SQL/Access
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**Statistical study on a NASA telescope**
+R/Python
 
-**That Other Job You Had**
+**Satisfaction survey about Carcassonne's nurseries**
+Sphinx
+Oral and written report for the city
 
-Also with a short description.
+**Order packaging/Quality control**
+SAS CARESTIA - Mouans-Sartoux (France)
 
-Technical Experience
---------------------
+**Reception host at Cannes' vaccination center**
+French/English communication
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**Electronic card repair at Electronie**
+Troubleshooting and component replacement
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
 
 Extra Section, Call it Whatever You Want
 ----------------------------------------
 
-* Human Languages:
+**Languages**
+ * French
+ ** Mother tongue
+ * English
+ ** Fluent
+ * Italian
+ ** College level
+ ** Multiple trips to Italia
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
 
-* Random tidbit
+**Computer skills**
 
-* Other sort of impressive-sounding thing you did
+Programming Languages
+* Python
+* SQL
+* R/RShiny
+* HTML/CSS
+* PHP
+* JavaScript
+* SAS
+* VisualBasic
+
+Softwares
+* Excel
+* Access
+* pgAdmin
+* ArcMap
+* PowerBI
+* FME
+* Sphinx
+
+
+**Hobbies**
+
+Statistics and probablilities - in sports and games
+Football - during spare-time
